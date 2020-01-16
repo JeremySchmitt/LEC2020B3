@@ -1,3 +1,4 @@
+
 % This script demonstrates basic operations with variables and 
 % built-in functions
 
@@ -10,7 +11,7 @@ age = 18;
 
 
 % Incrementing the value of the variable
-age = age + 1;
+4
 
 
 % Initializing two other variables
